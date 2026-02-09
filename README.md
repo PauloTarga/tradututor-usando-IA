@@ -10,11 +10,9 @@ Entrada de texto manual
 
 Captura de voz e conversão para texto
 
-Detecção automática do idioma
 
-Interface simples e responsiva
 
-Botão para inverter idiomas
+Botão select para idiomas
 
 Reprodução do texto traduzido
 
@@ -36,39 +34,26 @@ Clone o repositório
 
 Abra o arquivo index.html no navegador
 
-Selecione o idioma de origem e destino
+Selecione o idioma de destino
 
-Digite um texto ou utilize o botão de voz
+Digite um texto 
 
 Clique em traduzir
 
-📁 Estrutura do Projeto
+Ou utilize o botão de voz
+
+Estrutura do Projeto
 📂 projeto-tradutor
  ├── index.html
  ├── style.css
  ├── script.js
  └── README.md
-⚙️ Configuração da API
-
-Para que a tradução funcione corretamente é necessário configurar uma chave válida da API de tradução no arquivo JavaScript.
+ 
 
 🎤 Reconhecimento de Voz
 
 O projeto utiliza a Web Speech API para capturar o áudio do usuário e transformar em texto automaticamente.
 
-📌 Melhorias Futuras
-
-Suporte a mais APIs de tradução
-
-Histórico de traduções
-
-Download do texto traduzido
-
-Tema claro/escuro
-
-👨‍💻 Autor
+Finalidade:
 
 Projeto desenvolvido para fins de estudo e prática de integração com APIs e inteligência artificial.
-
-Feito com dedicação e código 💙
-
